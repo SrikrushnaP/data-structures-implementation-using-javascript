@@ -1,0 +1,14 @@
+{
+  "name": "data-structure-using-js",
+  "version": "1.0.0",
+  "description": "All about data structures available in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Srikrushna Pal",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
